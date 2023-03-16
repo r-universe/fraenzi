@@ -1,0 +1,10 @@
+[
+  {
+    "package": "blmeco",
+    "oncran": true
+  },
+  {
+    "package": "carcass",
+    "oncran": true
+  }
+]
